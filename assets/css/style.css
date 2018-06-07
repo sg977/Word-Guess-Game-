@@ -1,2 +1,44 @@
+.container {
+    font-family: 'Jua', sans-serif;
+}
+
+.jumbotron {
+    background-image: url("https://bootcamp.pe.gatech.edu/wp-content/uploads/sites/53/2018/01/code_overview-1.jpg"); 
+    background-repeat: no-repeat;  
+    background-size: 100%; 
+    color: white; 
+    height: 400px; 
+}
+
+.underscore {
+    border: 3px solid black;
+    font-size: 100px; 
+    text-align: center;
+    margin: 50px auto;
+    height: 200px;
+    width: inherit; 
+}
+
+.rightGuess {
+    border: 3px solid black;
+    font-size: 20px; 
+    text-align: center;
+    margin: 50px auto;
+    height: 200px;
+    width: inherit; 
+}
+
+
+.wrongGuess {
+    border: 3px solid black;
+    font-size: 20px; 
+    text-align: center;
+    margin: 50px auto;
+    height: 200px;
+    width: inherit; 
+}
+
+
+
 
 
